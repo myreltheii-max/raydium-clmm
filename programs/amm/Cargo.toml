@@ -13,7 +13,7 @@ doctest = false
 [features]
 no-entrypoint = []
 cpi = ["no-entrypoint"]
-default = []
+default = ["client"]
 client = []
 no-log-ix-name = []
 enable-log = []
